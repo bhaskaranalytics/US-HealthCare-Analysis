@@ -59,14 +59,14 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 | Patient Outcome Analysis | Healthcare Provider Metrics |
 |-------------|-------------|
-| ![patient_outcome_analysis](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/5eb0795a-fc88-4030-93e4-3953e73c413d) | ![healthcare_provider_metrics](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/a33604b8-5619-4d07-a451-8c51aa73bd93) |
+| ![patient_outcome_analysis](https://github.com/bhaskaranalytics/US-HealthCare-Analysis/blob/main/assets/patient_outcome_analysis.jpg) | ![healthcare_provider_metrics](https://github.com/bhaskaranalytics/US-HealthCare-Analysis/blob/main/assets/healthcare_provider_metrics.jpg) |
 | Examination of patient-related data and outcomes: This image presents an exploration of patient-related data, revealing actionable insights for improved patient care. Topics include patient demographics, treatment efficacy, and potential areas for enhanced medical interventions. | In-depth analysis and metrics for payer-provider relationships: This image showcases detailed metrics and analyses related to the relationships between healthcare providers and payers, offering insights crucial for optimizing the healthcare provider landscape. |
 
 ---
 
 | Monthly Expenses Trends | 
 |--------------------------|
-| ![monthly_expenses_trends](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/7158dcb3-380e-4e14-878d-5de19d56c916) | 
+| ![monthly_expenses_trends](https://github.com/bhaskaranalytics/US-HealthCare-Analysis/blob/main/assets/monthly_expenses_trends.jpg) | 
 | **Monthly Expenses Trends:** Visual representation of monthly aggregated expenses, offering financial insights to guide resource allocation. This analysis includes a breakdown of expenses, highlighting trends, and areas for potential cost savings. | 
 
 ---
@@ -74,7 +74,7 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 ### ER Diagram
 
-![er_diagram](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/6e59ff1f-a12e-4ab3-a480-05a29eac3d69)
+![er_diagram](https://github.com/bhaskaranalytics/US-HealthCare-Analysis/blob/main/assets/er_diagram.png)
 
 **Healthcare ERD:** Entity Relationship Diagram illustrating data structure and relationships. Gain a deeper understanding of the underlying data architecture through the ERD. This visual representation showcases the relationships within the healthcare analytics project.
 
