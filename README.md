@@ -52,7 +52,7 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 | Executive Summary | Hospital Insights |
 |-------------|-------------|
-| ![executive_summary](https://github.com/bhaskaranalytics/US-HealthCare-Analysis/blob/main/assets/executive_summary.jpg) assets/executive_summary.jpg| ![hospital_insights](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/da6fc0a8-00f1-411e-8c8e-53f8261a38fd) |
+| ![executive_summary](https://github.com/bhaskaranalytics/US-HealthCare-Analysis/blob/main/assets/executive_summary.jpg)| ![hospital_insights](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/da6fc0a8-00f1-411e-8c8e-53f8261a38fd) |
 | This section provides a concise yet comprehensive summary of key insights and findings derived from the analysis of the U.S. healthcare industry for the years 2019-2020. | Explore comprehensive analyses of hospital performance, including metrics on patient admissions, discharge rates, and overall hospital efficiency. Gain strategic perspectives for healthcare administrators.|
 
 ---
